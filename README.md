@@ -1,0 +1,2 @@
+- [Demo link](https://dmitryisemenov.github.io/layout_colored-blocks/)
+- [Test report](https://dmitryisemenov.github.io/layout_colored-blocks/report/html_report/)
